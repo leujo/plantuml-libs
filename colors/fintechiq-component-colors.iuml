@@ -21,7 +21,7 @@
 !$ResourceAccessColor  = "#BCBEC0"
 !$ResourcesColor       = "#74CEE2"
 !$UtilityColor         = "#DD9DC6"
-!$DataColor            = "DarkKhaki"
+!$DataColor            = "#BDB76B"
 !$NewModuleColor       = "LightGoldenrodYellow"
 !$TemporaryModuleColor = "Honeydew"
 
