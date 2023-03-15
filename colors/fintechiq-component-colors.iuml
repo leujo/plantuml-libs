@@ -8,15 +8,22 @@
 ' #BCBEC0 - Resource Access
 ' #74CEE2 - Resources
 ' #DD9DC6 - Utils
+' DarkKhaki - Data
+' LightGoldenrodYellow - New Modules
+' Honeydew - Temporary Modules
 
-!$ActorOneColor       = "#7FFFD4"
-!$ActorTwoColor       = "#AFEEEE"
-!$ClientColor         = "#A6CE39"
-!$ManagerColor        = "#FFF200"
-!$EngineColor         = "#FFCB05"
-!$ResourceAccessColor = "#BCBEC0"
-!$ResourcesColor      = "#74CEE2"
-!$UtilityColor        = "#DD9DC6"
+!$ActorOneColor        = "#7FFFD4"
+!$ActorTwoColor        = "#AFEEEE"
+!$UserColor            = "#3F48CC"
+!$ClientColor          = "#A6CE39"
+!$ManagerColor         = "#FFF200"
+!$EngineColor          = "#FFCB05"
+!$ResourceAccessColor  = "#BCBEC0"
+!$ResourcesColor       = "#74CEE2"
+!$UtilityColor         = "#DD9DC6"
+!$DataColor            = "DarkKhaki"
+!$NewModuleColor       = "LightGoldenrodYellow"
+!$TemporaryModuleColor = "Honeydew"
 
 ' Сделать картинку, которая дает понимания по цветам
 ' Каждая роль в виде компонентной диаграммы
