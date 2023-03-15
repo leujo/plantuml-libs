@@ -22,8 +22,8 @@
 !$ResourcesColor       = "#74CEE2"
 !$UtilityColor         = "#DD9DC6"
 !$DataColor            = "#BDB76B"
-!$NewModuleColor       = "LightGoldenrodYellow"
-!$TemporaryModuleColor = "Honeydew"
+!$NewModuleColor       = "#FAFAD2"
+!$TemporaryModuleColor = "#F0FFF0"
 
 ' Сделать картинку, которая дает понимания по цветам
 ' Каждая роль в виде компонентной диаграммы
