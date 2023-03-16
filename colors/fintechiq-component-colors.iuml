@@ -16,6 +16,7 @@
 !$ActorTwoColor        = "#AFEEEE"
 !$UserColor            = "#3F48CC"
 !$ClientColor          = "#A6CE39"
+!$FrontColor           = "#A6CE39"
 !$ManagerColor         = "#FFF200"
 !$EngineColor          = "#FFCB05"
 !$ResourceAccessColor  = "#BCBEC0"
@@ -35,13 +36,13 @@
 legend center
 | **Цвет** | **Пометка** | **Расшифровка** | **Значение** |
 |<$UserColor>| User | Пользователь приложения | $userVaule |
-|<$ClientColor>| Front | Фронт приложение| Веб-/мобильное приложение, система, внешний сервис |
-|<$UtilityColor>| Infrastructure | Инфраструктура системы | Инфраструктурный сервис и служба |
-|<$ManagerColor>| Orchestrator | Оркестратор бизнес-процесса | Сервис, реализующий несколько связанных бизнес-процессов |
-|<$ResourceAccessColor>| Resource Access | Доступ к ресурсу системы | Сервис, инкапсулирующий работу с различными ресурсам |
+|<$FrontColor>| Front | Фронт приложение| Веб- или мобильное приложение, система, внешний сервис |
+|<$UtilityColor>| Infrastructure | Инфраструктурное приложение | Инфраструктурная улитита, сервис или служба |
+|<$ManagerColor>| Orchestrator | Оркестратор бизнес-процесса | Cервис, реализующий некоторые логически связанные бизнес-процессы |
+|<$ResourceAccessColor>| Resource Access | Доступ к ресурсу системы | Сервис, инкапсулирующий работу с ресурсами |
 |<$DataColor>| Data | Данные системы | Внутренние ресурсы системы |
 |<$TemporaryModuleColor>| Temporary Module | Временный модуль системы | Модуль системы, от которого планируется отказаться |
-|<$NewModuleColor>| New Module | Новый модуль системы | Модуль системы, под который заведен проект  |
+|<$NewModuleColor>| New Module | Новый модуль системы | Модуль системы, который планируется разработать  |
 end legend
 !endprocedure
 
