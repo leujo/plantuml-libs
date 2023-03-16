@@ -31,7 +31,7 @@
 ' Назвать файл как-нить Инструкции
 ' [Colors]
 
-unquoted procedure AddLegend($userVaule)
+!unquoted procedure AddLegend($userVaule)
 legend center
 | **Цвет** | **Пометка** | **Расшифровка** | **Значение** |
 |<$UserColor>| User | Пользователь приложения | $userVaule |
