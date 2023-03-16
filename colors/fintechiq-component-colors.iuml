@@ -25,9 +25,24 @@
 !$NewModuleColor       = "#FAFAD2"
 !$TemporaryModuleColor = "#F0FFF0"
 
+
 ' Сделать картинку, которая дает понимания по цветам
 ' Каждая роль в виде компонентной диаграммы
 ' Назвать файл как-нить Инструкции
 ' [Colors]
+
+unquoted procedure AddLegend($userVaule)
+legend center
+| **Цвет** | **Пометка** | **Расшифровка** | **Значение** |
+|<$UserColor>| User | Пользователь приложения | $userVaule |
+|<$ClientColor>| Front | Фронт приложение| Веб-/мобильное приложение, система, внешний сервис |
+|<$UtilityColor>| Infrastructure | Инфраструктура системы | Инфраструктурный сервис и служба |
+|<$ManagerColor>| Orchestrator | Оркестратор бизнес-процесса | Сервис, реализующий несколько связанных бизнес-процессов |
+|<$ResourceAccessColor>| Resource Access | Доступ к ресурсу системы | Сервис, инкапсулирующий работу с различными ресурсам |
+|<$DataColor>| Data | Данные системы | Внутренние ресурсы системы |
+|<$TemporaryModuleColor>| Temporary Module | Временный модуль системы | Модуль системы, от которого планируется отказаться |
+|<$NewModuleColor>| New Module | Новый модуль системы | Модуль системы, под который заведен проект  |
+end legend
+!endprocedure
 
 @enduml
