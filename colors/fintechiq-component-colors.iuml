@@ -26,6 +26,8 @@
 !$NewModuleColor       = "#FAFAD2"
 !$TemporaryModuleColor = "#F0FFF0"
 !$BoundaryColor        = "#87CEEB"
+!$AltColor             = "#FFFFE0"
+!$AltElseColor         = "#FFDAB9"
 
 ' Сделать картинку, которая дает понимания по цветам
 ' Каждая роль в виде компонентной диаграммы
