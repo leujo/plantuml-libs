@@ -25,7 +25,7 @@
 !$DataColor            = "#BDB76B"
 !$NewModuleColor       = "#FAFAD2"
 !$TemporaryModuleColor = "#F0FFF0"
-!$BoundaryColor        = "#87CEEB"
+!$BoundaryColor        = "#AFEEEE"
 !$AltColor             = "#FFFFE0"
 !$AltElseColor         = "#FFDAB9"
 !$NoteColor            = "#B0C4DE"
