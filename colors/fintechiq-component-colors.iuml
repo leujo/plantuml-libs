@@ -26,7 +26,7 @@
 !$NewModuleColor       = "#FAFAD2"
 !$TemporaryModuleColor = "#F0FFF0"
 !$BoundaryColor        = "#D8BFD8"
-!$AltColor             = "#FFFFE0"
+!$AltColor             = "#F0FFF0"
 !$AltElseColor         = "#FFDAB9"
 !$NoteColor            = "#B0C4DE"
 
