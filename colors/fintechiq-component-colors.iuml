@@ -28,6 +28,7 @@
 !$BoundaryColor        = "#87CEEB"
 !$AltColor             = "#FFFFE0"
 !$AltElseColor         = "#FFDAB9"
+!$NoteColor            = "#B0C4DE"
 
 ' Сделать картинку, которая дает понимания по цветам
 ' Каждая роль в виде компонентной диаграммы
