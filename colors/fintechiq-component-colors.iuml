@@ -36,6 +36,7 @@
 ' [Colors]
 
 !unquoted procedure AddLegend()
+
 legend center
 | **Цвет** | **Пометка** | **Расшифровка** |
 |<$UserColor>| User | Пользователь | 
@@ -48,6 +49,7 @@ legend center
 |<$TemporaryModuleColor>| Temporary Module | Временный модуль системы |
 |<$NewModuleColor>| New Module | Новый модуль системы |
 end legend
+
 !endprocedure
 
 @enduml
