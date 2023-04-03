@@ -37,16 +37,16 @@
 
 !unquoted procedure AddLegend($userVaule)
 legend center
-| **Цвет** | **Пометка** | **Расшифровка** | **Значение** |
-|<$UserColor>| User | Пользователь приложения | $userVaule |
-|<$FrontColor>| Front | Фронт приложение| Веб- или мобильное приложение, система, внешний сервис |
-|<$UtilityColor>| Infrastructure | Инфраструктурное приложение | Инфраструктурная улитита, сервис или служба |
-|<$ManagerColor>| Orchestrator | Оркестратор бизнес-процесса | Cервис, реализующий некоторые логически связанные бизнес-процессы |
-|<$ResourceAccessColor>| Resource Access | Доступ к ресурсу системы | Сервис, инкапсулирующий работу с ресурсами |
-|<$DataColor>| Data | Данные системы | Внутренние ресурсы системы |
-|<$BoundaryColor>| Boundary | Cистемная граница / Программный элемент в системе | Элементы пользовательского интерфейса |
-|<$TemporaryModuleColor>| Temporary Module | Временный модуль системы | Модуль системы, от которого планируется отказаться |
-|<$NewModuleColor>| New Module | Новый модуль системы | Модуль системы, который планируется разработать  |
+| **Цвет** | **Пометка** | **Расшифровка** |
+|<$UserColor>| User | Пользователь | 
+|<$FrontColor>| Front | Фронт |
+|<$UtilityColor>| Infrastructure | Инфраструктура |
+|<$ManagerColor>| Orchestrator | Оркестратор бизнес-процесса |
+|<$ResourceAccessColor>| Resource Access | Доступ к ресурсу системы |
+|<$DataColor>| Data | Данные системы |
+|<$BoundaryColor>| Boundary | Cистемная граница / Программный элемент в системе |
+|<$TemporaryModuleColor>| Temporary Module | Временный модуль системы |
+|<$NewModuleColor>| New Module | Новый модуль системы |
 end legend
 !endprocedure
 
