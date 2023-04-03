@@ -39,7 +39,7 @@
 
 legend center
 | **Цвет** | **Пометка** | **Расшифровка** |
-|<$UserColor>| User | Пользователь | 
+|<$UserColor>| User | Пользователь |
 |<$FrontColor>| Front | Фронт |
 |<$UtilityColor>| Infrastructure | Инфраструктура |
 |<$ManagerColor>| Orchestrator | Оркестратор бизнес-процесса |
